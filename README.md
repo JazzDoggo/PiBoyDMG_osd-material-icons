@@ -36,7 +36,7 @@ Adjust the icons' positions in the osd.cfg file. I suggest using distances provi
   - 36px - large
     
 Example (large):
-- 496 throttle  
-- 532 bluetooth 
-- 568 wifi
-- 604 battery   
+  - 496 throttle  
+  - 532 bluetooth 
+  - 568 wifi
+  - 604 battery   
