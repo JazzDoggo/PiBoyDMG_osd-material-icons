@@ -30,13 +30,13 @@ B. After installing the firmware
   2. Copy and replace the "osd" folder using the one from the repo.
 
 ## Configuration:
-Adjust the icons' positions in the osd.cfg file. I suggest using distances provided below:
+Adjust the icons' positions in the osd.cfg file. I suggest using distance intervals provided below:
   - 18px - small
   - 27px - medium
   - 36px - large
     
 Example (large):
-  - 496 throttle  
-  - 532 bluetooth 
-  - 568 wifi
-  - 604 battery   
+  - 496 - throttle  
+  - 532 - bluetooth 
+  - 568 - wifi
+  - 604 - battery   
