@@ -1,4 +1,4 @@
-# PiBoy DMG - OSD Material Icons
+# PiBoy DMG - On-Screen Display Material Icons
 
 Alternative on-screen display icons for Experimental Pi's PiBoy DMG.
 The pack is based on Google's Material Icon set, that can be found on Android. Icons have white outline and semi-transparent dark background, so they can be visible in every scene. Volume icon notification is reduced to a volume bar.
