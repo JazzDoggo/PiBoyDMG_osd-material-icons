@@ -40,6 +40,6 @@ Example (large):
   - 568 - wifi
   - 604 - battery
 
-External links:
-https://experimentalpi.com/downloads.html
-https://fonts.google.com/icons
+##External links:
+  - https://experimentalpi.com/downloads.html
+  - https://fonts.google.com/icons
