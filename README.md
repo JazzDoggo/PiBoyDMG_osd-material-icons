@@ -31,12 +31,12 @@ B. After installing the firmware
 
 ## Configuration:
 Adjust the icons' positions in the osd.cfg file. I suggest using distances provided below:
-    small   18px
-    medium  27px
-    large   36px
+  small   18px
+  medium  27px
+  large   36px
     
 Example (large):
-    throttle  496
-    bluetooth 532
-    wifi      568
-    battery   604
+throttle  496
+  bluetooth 532
+  wifi      568
+  battery   604
